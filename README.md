@@ -1,5 +1,5 @@
 <h2> Hi, I'm Franco Villanueva! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://w7.pngwing.com/pngs/120/484/png-transparent-web-development-digital-marketing-web-design-search-engine-optimization-logo-web-development-blue-angle-web-design.png" width="230">
+<img align='right' src="https://w7.pngwing.com/pngs/120/484/png-transparent-web-development-digital-marketing-web-design-search-engine-optimization-logo-web-development-blue-angle-web-design-thumbnail.png" width="230">
 <p><em>Graduated from<a href="https://www.soyhenry.com/"> soyhenry</a> as a full stack developer<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
