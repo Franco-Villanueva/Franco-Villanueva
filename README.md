@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2> Hi, I'm Franco Villanueva! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Graduated from<a href="https://www.soyhenry.com/"> soyhenry</a> as a full stack developer<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
 
-<!--
-**Franco-Villanueva/Franco-Villanueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: Franco-Villanueva](https://img.shields.io/badge/-Franco-Villanueva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franco-villanueva-b72b95237/)](https://www.linkedin.com/in/franco-villanueva-b72b95237/)
+[![GitHub Franco-Villanueva](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Franco-Villanueva)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Franco = {
+  pronoun: "he",
+  code: ["HTML5", "CSS3", "JavaScript"],
+  tools: ["React.js", "Redux", "PostgreSQL", "Express.js", "Node.js", "Git & GitHub", "Figma"],
+  interests = ["Drawing", "Creating", "Imagining", "Clean code"],
+  challenge: "Always looking for new ways to improve my skills and learn emerging technologies"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>If you can imagine it, you can code it.</b>:)</em>
+
+---
