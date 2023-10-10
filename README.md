@@ -3,7 +3,7 @@
 <p><em>Graduated from<a href="https://www.soyhenry.com/"> soyhenry</a> as a full stack developer<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: Franco-Villanueva](https://img.shields.io/badge/-Franco-Villanueva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franco-villanueva-b72b95237/)](https://www.linkedin.com/in/franco-villanueva-b72b95237/)
+[![Linkedin: Franco-Villanueva](https://www.linkedin.com/in/franco-villanueva-b72b95237/)]
 [![GitHub Franco-Villanueva](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Franco-Villanueva)
 
 
