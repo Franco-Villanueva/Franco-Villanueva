@@ -3,7 +3,7 @@
 
 🔭 Actualmente estoy trabajando en mi Portfolio.
 
-🌱 Estoy aprendiendo Three js, Angular y más.
+🌱 Estoy aprendiendo React Navite, Diseño y más.
 
 👯 Estoy buscando colaborar en proyectos de Front-End y Back-End.
 
